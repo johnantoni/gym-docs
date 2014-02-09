@@ -78,3 +78,4 @@ then ending with
 #### gym
 
 3 times a week for exercises + 2 to 3 pure cardio
+1 rest day
