@@ -74,3 +74,7 @@ repeated with planks/resisted sit ups
 then ending with 
 
 * 1 mile at 6.5 to 7.5 speed with 1.5 incline
+
+#### gym
+
+3 times a week for exercises + 2 to 3 pure cardio
