@@ -58,7 +58,7 @@
 
 #### cardio
 
-* 1 mile at 6.5 to 7.5 speed with 1.5 incline
+Stick with the bike (keeping your spine in a neutral position), or use the elliptical without the arms. For either piece of equipment, use the "sports intervals" setting, going as hard as you can without hip rotation on the higher settings, and going at a moderate/recovery pace on the lower settings. At the end of 15-20 minutes, you should be sweating buckets and feeling pretty tired. If not, go harder on the high intervals.
 
 4 supersets sets of:
 
@@ -70,10 +70,6 @@ with 20 sec rest
 repeated with planks/resisted sit ups
 
 10 minuts with skipping rope
-
-then ending with 
-
-* 1 mile at 6.5 to 7.5 speed with 1.5 incline
 
 #### gym
 
